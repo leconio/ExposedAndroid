@@ -1,0 +1,3 @@
+[submodule "natmap"]
+	path = natmap
+	url = https://github.com/leconio/natmap
