@@ -1,0 +1,4 @@
+{
+  "image": "ghcr.io/nordcominc/devcontainer-features/android-sdk:1",
+  "features": {}
+}
