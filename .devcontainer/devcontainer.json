@@ -1,0 +1,7 @@
+{
+  "image": "ghcr.io/cirruslabs/android-sdk:35-ndk",
+  "runArgs": ["--device=/dev/net/tun"],
+  "features": {
+      "ghcr.io/tailscale/codespace/tailscale": {}
+  }
+}
